@@ -9,7 +9,7 @@ Présentation de 5 articles scientifiques, support disponible.
 - Better Summarization Evaluation with Word Embeddings for ROUGE 
 - Evaluating Content Selection in Summarization : The Pyramid Method 
 - Automated Pyramid Summarization Evaluation
-________________________ 
+_________
 
 ## Mardi 21 mai 
 
