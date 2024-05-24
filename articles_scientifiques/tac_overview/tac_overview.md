@@ -77,9 +77,6 @@
 
 ```
 
-**Conclusion** :
-    - Les systèmes automatiques montrent une difficulté accrue pour produire des résumés de mise à jour par rapport aux résumés initiaux.
-    - Les mesures automatiques ROUGE-2, ROUGE-SU4, et BE-HM ont des corrélations élevées avec les évaluations manuelles, mais ne capturent pas toujours les différences de performance entre résumés initiaux et de mise à jour.
 
 Schéma expansion de la requête : 
 
@@ -142,3 +139,8 @@ En combinant ces deux mesures, le TF-IDF identifie les mots les plus pertinents 
 4) Evaluation Results 
 -> Évaluation avec ROUGE et BE 
 Les 1er et 2ème run évalué manuellement 
+
+
+**Conclusion** :
+    - Les systèmes automatiques montrent une difficulté accrue pour produire des résumés de mise à jour par rapport aux résumés initiaux.
+    - Les mesures automatiques ROUGE-2, ROUGE-SU4, et BE-HM ont des corrélations élevées avec les évaluations manuelles, mais ne capturent pas toujours les différences de performance entre résumés initiaux et de mise à jour.

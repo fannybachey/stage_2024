@@ -65,10 +65,22 @@ ____
 ## Jeudi 23 mai 
 
 TO DO : 
-- Commencer le diapo pour la présentation (ROUGE et TAC)
-- Envoyer un mail pour les corpus 
-- Tester ROUGE sur un corpus TAC 
+- [x] Commencer le diapo pour la présentation (ROUGE et TAC)
+- [ ] Envoyer un mail pour les corpus 
+- [ ] Tester ROUGE sur un corpus TAC 
 
 
+- Début de la présentation pour le 30
+- Lecture article : "Overview of the TAC 2008 Update Summarization Task" (il reste à terminer le diapo)
+Permet de voir les méthodes proposées par les candidats dans la création des résumés, donne un aperçu plus globale des différences que l'on retrouve dans les résultats d'évaluation des résumés manuels et ceux générés automatiquement. 
 
+________________
 
+## Vendredi 24 Mai
+
+TO DO : 
+- [ ] Envoyer un mail pour les corpus 
+- [ ] Tester ROUGE sur un corpus TAC (ou DUC ?? vérifier)
+
+- Téléchargement dataset cnn/dm (script : cnn_dm.py)
+- lecture article : Automatically Evaluating Contenet Selection in Summarization without Human Models 
