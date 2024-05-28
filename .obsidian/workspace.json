@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e499fd5135bfac8c",
+        "id": "b0057184e2ac5da0",
         "type": "tabs",
         "children": [
           {
-            "id": "2e14c25940ee72ab",
+            "id": "df590a7d297b3322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles_scientifiques/tac_overview/tac_overview.md",
+                "file": "192 Shades of ROUGE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles_scientifiques/tac_overview/tac_overview.md",
+                "file": "192 Shades of ROUGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles_scientifiques/tac_overview/tac_overview.md",
+                "file": "192 Shades of ROUGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles_scientifiques/tac_overview/tac_overview.md"
+                "file": "192 Shades of ROUGE.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "73845dc59942f97f",
+  "active": "df590a7d297b3322",
   "lastOpenFiles": [
+    "192 Shades of ROUGE.md",
+    "articles_scientifiques/192 shades of ROUGE/192 Shades of ROUGE",
+    "articles_scientifiques/192 shades of ROUGE",
+    "articles_scientifiques/tac_overview/tac_overview.md",
     "Pasted image 20240523232311.png",
     "Pasted image 20240523232259.png"
   ]
