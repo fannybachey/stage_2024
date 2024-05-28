@@ -84,3 +84,14 @@ TO DO :
 
 - Téléchargement dataset cnn/dm (script : cnn_dm.py)
 - lecture article : Automatically Evaluating Contenet Selection in Summarization without Human Models 
+
+_______
+
+## Lundi 27 Mai
+
+
+_____
+## Mardi 28 Mai 
+
+- Envoie mail pour dataset 
+- Lecture article et diapo ++
