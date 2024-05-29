@@ -95,3 +95,15 @@ _____
 
 - Envoie mail pour dataset 
 - Lecture article et diapo ++
+
+
+____ 
+## Mercredi 29 Mai 
+
+- Réception des datasets DUC 2004 et 2005 
+- Demande DUC 2006 - DUC 2007
+
+TO DO : 
+- [ ] Envoyer les demandes pour TAC 
+- [ ] Télécharger données en local pour CNN/DM 
+- [ ] 

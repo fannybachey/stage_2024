@@ -43,7 +43,7 @@ Voir : [[Ensemble dominant dans la théorie des graphes]]
 
 #### Lien avec le max k-weighted dominating set problem 
 
-1. On imagine que chaque token du document est un sommet dans un graphe, les sommets représentent la similarité ou la connexion entre les tokens.  
+1. On imagine que chaque token du document est un sommet dans un graphe, les sommets représentent la similarité ou la connexion entre les tokens  
 2. on pondère les sommets, chaque token à un poids =le nombre de fois qu'il apparaît dans le résumé de référence.
 3. Ensemble dominant de token : on choisi un sous-ensemble de token de sorte à ce que ce sous-ensemble maximise le chevauchement des tokens. 
 
