@@ -93,7 +93,7 @@ _______
 _____
 ## Mardi 28 Mai 
 
-- Envoie mail pour dataset 
+- Envoie mail pour dataset (DUC 2004 ET DUC 2005)
 - Lecture article et diapo ++
 
 
@@ -104,6 +104,18 @@ ____
 - Demande DUC 2006 - DUC 2007
 
 TO DO : 
-- [ ] Envoyer les demandes pour TAC 
-- [ ] Télécharger données en local pour CNN/DM 
-- [ ] 
+- [x] Envoyer les demandes pour TAC 
+- [x] Télécharger données en local pour CNN/DM 
+
+___ 
+## Jeudi 30 Mai 
+
+- envoi de tous les mails restant pour les demandes de corpus 
+- Lecture d'articles, présentation 
+
+___ 
+
+## Vendredi 31 Mai 
+
+- Clone du git de summvis 
+- Problèmes de compatibilités des dépendances dc pour l'instant impossible d'installer (à voir ce week-end pour essayer de l'installer sur appareil personnel)
