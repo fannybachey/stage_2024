@@ -4,7 +4,6 @@ Ligne de commande pour lancer l'application :
 streamlit run summvis.py -- --path examples/wikinews/wikinews.cache
 ```
 
-
 ## Remarques : 
 - Utilisation de Streamlit : permet de créer facilement des apps. 
 - Comparaiosn possible entre input et le document source 
@@ -39,7 +38,16 @@ Différents résumé :
 - Annotation : Des onglets pour afficher des informations sur le chevauchement de n-grammes, les nouveaux mots, et les nouvelles entités dans les résumés par rapport au document source. (Possible d'activé et de désactivé)
 - Source document : document source 
 - Summary : Les différents résumés générés s'affichent dans une petite fenêtre 
+
+
 # Comment on fait pour mettre des données 
 
 
-# 
+# Analyse
+
+3 niveaux d'analyse : 
+- Model Analysis : by comparing the source document with generated summaries, SUMMVIS provides insights into a model’s ability to abstract and faithfully retain information present in the document.
+
+- Data Analysis : By comparing the source document with the reference summary, SUMMVIS helps determine the degree to which the reference summary itself is abstractive and factually consistent with the source document.
+
+- Evaluation Analysis: By comparing the reference summary with the generated summary, SUMMVIS surfaces the word- and phrase-level relationships that form the basis of automated evaluation metrics such as ROUGE and BERTScore.
