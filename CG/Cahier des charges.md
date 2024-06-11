@@ -3,6 +3,7 @@
     - Création d'un logiciel pour l'aide à l'évaluation de résumés générés automatiquement. 
     - Il est nécessaire de créer une interface qui permet à l'utilisateur de visualiser les différents résumés générés et ceux de références 
      ainsi que les résultats (éléments ?) générés par les différentes métriques d'évaluation (ROUGE, pyramid, JS(...))
+ 
 - **1.2 Objectifs**
     - Facilité une évaluation semi-automatique 
     - améliorer la précision de l'évaluation, automatiser certaines tâches (par exemple la reconnaissance des unité de sens avec automated pyramid)
@@ -15,6 +16,7 @@
         - Comparaison de résumés avec des résumés de référence
         - Utilisation de métriques d'évaluation comme ROUGE, BLEU, etc.
         - Annotations attractives (comme summvis), souligner, surligner, mettre en gras... 
+
 ### 3. Aspects fonctionnels 
 
 - **3.1 Utilisateurs et rôles**
@@ -42,3 +44,10 @@
     - Comment et quand ces métriques seront appliquées : 
 		- Une fois que le document est mis dans le logiciel, il faut que le traitement se fasse pour chaque pair (est-ce qu'on propose le même format que sur summvis avec la comparaison entre source document/résumé et résumés/résumé de référence. )
 
+Qu'est-ce que je veux que le logiciel propose pour aider à l'évaluation 
+Corriger, modifier ou supprimer les résumés candidats 
+Triplet rdf 
+Modalité de représentation des connaissances (se renseigner pour voir un format qui correspond plus ou moins)
+
+Application Angular 
+-> combien annotateur par article ? un seul annotateur ? voir ce qu'on va mettre en place.
