@@ -1,5 +1,5 @@
 
-- **1. Contexte**
+**1. Contexte**
     - Création d'un logiciel pour l'aide à l'évaluation de résumés générés automatiquement. 
     - Il est nécessaire de créer une interface qui permet à l'utilisateur de visualiser les différents résumés générés et ceux de références 
      ainsi que les résultats (éléments ?) générés par les différentes métriques d'évaluation (ROUGE, pyramid, JS(...))
@@ -25,7 +25,7 @@
 
 - **3.2 Scénarios d'utilisation**
     - On importe dans le logiciel un peu à la façon de TXM le corpus que l'on veut annoter, préciser le format ? Possibilité d'ajouter un texte qui peut-être depuis l'interface résumé par différents modèles.
-     Dans ce cas là 2 scénarios différents, un premier dans lequel on importe un le document source et 1 ou plusieurs résumés. Le deuxième dans lequel on propose à l'utilisateur de rentrer un document source et en amont on a implémenter des modèles au logiciel pour qu'il les annote automatiquement. 
+     - Dans ce cas là 2 scénarios différents, un premier dans lequel on importe un le document source et 1 ou plusieurs résumés. Le deuxième dans lequel on propose à l'utilisateur de rentrer un document source et en amont on a implémenter des modèles au logiciel pour qu'il les annote automatiquement. 
 
 - **3.3 Interface utilisateur**
     - Clarté ? Il faut une interface interactive qui permet à l'utilisateur de facilement voir les similarités entre les résumés, en soulignant, surlignant le texte, etc... 
@@ -44,10 +44,4 @@
     - Comment et quand ces métriques seront appliquées : 
 		- Une fois que le document est mis dans le logiciel, il faut que le traitement se fasse pour chaque pair (est-ce qu'on propose le même format que sur summvis avec la comparaison entre source document/résumé et résumés/résumé de référence. )
 
-Qu'est-ce que je veux que le logiciel propose pour aider à l'évaluation 
-Corriger, modifier ou supprimer les résumés candidats 
-Triplet rdf 
-Modalité de représentation des connaissances (se renseigner pour voir un format qui correspond plus ou moins)
 
-Application Angular 
--> combien annotateur par article ? un seul annotateur ? voir ce qu'on va mettre en place.
