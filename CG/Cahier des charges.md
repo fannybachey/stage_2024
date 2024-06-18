@@ -1,13 +1,17 @@
 
-**1. Contexte**
-    - Création d'un logiciel pour l'aide à l'évaluation de résumés générés automatiquement. 
-    - Il est nécessaire de créer une interface qui permet à l'utilisateur de visualiser les différents résumés générés et ceux de références en parallèle du document source. 
-     - ainsi que les résultats (éléments ?) générés par les différentes métriques d'évaluation (ROUGE, pyramid, JS(...))
+**1. Contexte et définition du problème**
+	 *Exposer en quelques mots les fondements de la demande* 
+    
+ - Création d'un logiciel pour l'aide à l'évaluation de résumés générés automatiquement. 
+- Il est nécessaire de créer une interface qui permet à l'utilisateur de visualiser les différents résumés générés et ceux de références en parallèle du document source. 
+- ainsi que les résultats (éléments ?) générés par les différentes métriques d'évaluation (ROUGE, pyramid, JS(...))
  
 - **1.2 Objectifs**
-    - Facilité une évaluation semi-automatique 
-    - améliorer la précision de l'évaluation, automatiser certaines tâches (par exemple la reconnaissance des unité de sens avec automated pyramid)
-    - permettre de corriger les résumés 
+	*Exprimer le niveau des attentes et les résultats attendus* 
+
+- Facilité une évaluation semi-automatique 
+- améliorer la précision de l'évaluation, automatiser certaines tâches (par exemple la reconnaissance des unité de sens avec automated pyramid)
+- permettre de corriger les résumés 
 
 ### 2. Principes généraux/ aspects fonctionnels
 
@@ -44,5 +48,20 @@
 
     - Comment et quand ces métriques seront appliquées : 
 		- Une fois que le document est mis dans le logiciel, il faut que le traitement se fasse pour chaque pair (est-ce qu'on propose le même format que sur summvis avec la comparaison entre source document/résumé et résumés/résumé de référence. )
+
+
+## Description formelle des besoins 
+-> Décrire son besoin en terme de fonctionnalités
+
+*Exemple :* 
+
+**Fonction principale** : Gestion des résumés candidats
+Sous-fonctions :  
+- importer un nouveau résumé 
+- corriger/modifier un résumé existant 
+- supprimé un résumé candidat  
+Pour chaque fonction  = un tableau sous cette forme : 
+![[Pasted image 20240618124444.png]]u
+source : https://www.manager-go.com/gestion-de-projet/dossiers-methodes/elaborer-un-cdc
 
 
