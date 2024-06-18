@@ -8,7 +8,8 @@ Dockerisation des modèles
 - Rendu pour le master donc pas beaucoup avancé.
 
 ## Mardi 4 juin 
-- Installation de Summvis, c'était bien un problème avec des dépendances mais pour que ça fonctionne il fallait aussi downgrade la version de python. 
+- Installation de Summvis, c'était bien un problème avec des dépendances mais pour que ça fonctionne il fallait aussi downgrade la version de python et celle de panda -> bien le préciser dans le rapport parceque le github du projet n'a pas été modifié. 
+- Premières observations sur l'application
 
 ## Lundi 10 juin
 
@@ -60,3 +61,15 @@ Plus de précisions sur la deuxième partie du mémoire :
 
 - Toujours pas de réponses pour les corpus -
 -  [[Triplet RDF]]
+
+## Vendredi 14 juin 
+-> Finir le rapport 
+
+## Lundi 17 juin 
+
+-> Dernières modification sur le rapport summvis,  envoi à Aurélien pour correction et ensuite version finale pour diffuser 
+- relancer pour les corpus ?
+
+## Mardi 18 juin
+
+- avancer sur le cahier des charges pour avoir une meilleure idée de ce qui sera attendu, sachant qu'il faudrait vraiment bien avancer dans la semaine pour le rendre 
