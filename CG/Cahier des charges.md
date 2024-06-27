@@ -6,8 +6,11 @@
 	 *Exposer en quelques mots les fondements de la demande* 
     
  - Création d'un logiciel pour l'aide à l'évaluation de résumés générés automatiquement. 
-- Créer une interface qui permet à l'utilisateur de visualiser les différents résumés générés et ceux de références en parallèle du document source. 
+ - Permet une annotation en 2 phases : 
+- Avec : 
+	- une interface qui permet à l'utilisateur de visualiser les différents résumés générés à évaluer et ceux de références. 
 - Résultats (éléments ?) générés par les différentes métriques d'évaluation (ROUGE, pyramid, JS(...))
+- Ajout de propositions automatiques (pour faciliter le repérage des SCUs et/ou des triplets)
  
 - **1.2 Objectifs**
 	*Exprimer le niveau des attentes et les résultats attendus* 
