@@ -67,9 +67,17 @@ Plus de précisions sur la deuxième partie du mémoire :
 
 ## Lundi 17 juin 
 
--> Dernières modification sur le rapport summvis,  envoi à Aurélien pour correction et ensuite version finale pour diffuser 
+-> Dernières modification sur le rapport summvis, envoi à Aurélien pour correction et ensuite version finale pour diffuser 
 - relancer pour les corpus ?
 
 ## Mardi 18 juin
 
 - avancer sur le cahier des charges pour avoir une meilleure idée de ce qui sera attendu, sachant qu'il faudrait vraiment bien avancer dans la semaine pour le rendre 
+
+
+## Mercredi 26 juin 
+- rencontre avec Geoffrey pour parler du cahier des charges. Premier cadre méthodologique. 
+Comment il faut penser l'explication de notre application. 
+Il faut parler en terme de besoin !! 
+
+
