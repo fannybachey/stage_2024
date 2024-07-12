@@ -1,1 +1,0 @@
-/home/fanny/Python-2.6.9/Modules/_ctypes/libffi/src/x86/ffitarget.h
