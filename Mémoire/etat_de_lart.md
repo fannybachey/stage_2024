@@ -5,10 +5,23 @@
 
 - Définition globale
 On cherche à définir généralement ce qu'est un résumé, 
-source thèse Aurélien 
+source thèse Aurélien.
+Le résumé consiste à : 
+- réduire la taille du document source 
+- relater les informations essentielles
+=> Je cherche à définir cr qu'est un résumé et comment il est construit dans un cas de figure très général. 
 
-Deux approches différentes : 
--résumé extractifs : on reprends des éléments du document source pour crér un nouveau document plus petit. 
+Voici les questions auxquelles je peux répondre pour avoir une première idée : 
+- Qu'est-ce qu'on résume ? Quels types de documents, quels sont leurs caractéristiques ? 
+On peut résumer de nombreux types de documents, texte, vidéo, audios. 
+- À qui se destine les résumés ? Est-ce que l'on recherche une information plutôt qu'une autre ? 
+(Est-ce qu'on parle d'un domaine de spécialité ? Du résumé d'un épisode d'une série par exemple ? )
+- Quelle est la taille du document d'origine, la taille du document de sortie ? 
+	*PS : Ne pas hésiter à chercher des articles qui restent autour du résumé et de l'évaluation* 
+
+
+Deux approches différentes pour la génération de résumés automatiques: 
+-résumé extractifs : on reprends des éléments du document source pour créer un nouveau document plus petit. 
 - résumé abstractif : consiste à résumé un document source en générant un nouveau texte. 
 La différence entre ces deux approches est visible dans les modèles de génération de résumés mais également dans les modèles d'évaluation. En fonction des outils que l'on utilise pour l'évaluation, on peut avoir des résultats différents entre les modèles. 
 
@@ -20,6 +33,7 @@ La différence entre ces deux approches est visible dans les modèles de génér
 Est-ce que comme Aurélien je donne un exemple de résumé ? 
 
 ## État de l'art du résumé automatique (méthode traditionnelles mais insister sur les nouvelles méthodes : prompt engeneering) 
+=> Dans cette partie il faut que j'essaye un maximum de montrer l'évolution des modèles, est-ce qu'il faut rentrer dans les détails techniques dans cette partie ? 
 
 Est-ce que je fais dans l'ordre chronologique ? Où est-ce que je fais : manuelle (Pyramid, statistiques (ROUGE, JS)) ? 
 
@@ -37,7 +51,7 @@ Différentes remarques :
 - Évaluation humaine est très coûteuse mais c'est pourtant celle qui est la plus fiable. 
 
 
-Liste d'artciles à citer dans mon mémoire : 
+Liste d'articles à citer dans mon mémoire : 
 - ROUGE 
 - Pyramid 
 - Méthodes statistiques 
