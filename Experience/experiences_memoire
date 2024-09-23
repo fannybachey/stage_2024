@@ -1,0 +1,12 @@
+- Prendre les documents source et les résumés avec chacun des modèles. 
+
+- Observer l'abstractivité des résumés avec ROUGE, la plus longue sub-sequence entre doc source et résumé généré.
+le faire aussi avec les résumés générés manuellement. (Pour TAC et DUC) 
+
+Résulats et regarder les plus difficiles avec ROUGE 2 et regarder les plus discriminants, ecart type ou les systèmes les plus élevés. 
+Trouver quels résumés ont plus ou moins difficile à résumer. 
+
+
+- Observer les textes sources et chercher des particularité linguistiques qui ne seraient pas bien géré par les différents modèles.
+
+- Ingénierie de recherche

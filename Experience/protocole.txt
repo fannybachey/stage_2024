@@ -1,0 +1,29 @@
+Protocole experimental 
+
+1. Introduction : 
+
+1.1 Contexte et justification 
+
+Dans le cadre de notre étude sur les résumés automatiques, nous proposons la réalisation de plusieurs expériences afin de mettre en evidence des anomalies, erreurs récurrentes ou non. Ces observations nous montrerons les différents éléments que les modèles ont encore du mal à gérer. 
+	Formulation à réutiliser une fois les expériences faites : effets de la varibale X sur la variable X, en mettant en évidences les résultats des différentes expériences. 
+	
+1.2 Hypothèses
+
+Nous avons plusieurs hypothèses, qui ne cherchent pas exactment la même chose. Dans un premier temps, nous voulons montrer les limites de certains corpus comme CNN/DM, puisque sa construction même peut biaiser les modèles. 
+
+De même, nous pensons que certains phénomènes linguistiques ne sont pas bien interprétés par les modèles et ainsi qu'ils ne sont pas repris dans les résumés générés. 
+
+
+2. Objectifs 
+
+2.1 Objectif général
+- L’objectif principal de cette étude est d’évaluer l’impact de [variable X] sur [variable Y] dans le cadre de [contexte de l’étude]. 
+
+2.2 Objectifs spécifiques 
+- objectifs secondaires ou plus spécifiques qui découleront du protocole expérimental. 
+
+3. Méthodologie
+
+3.1 Design de l'étude
+Nous allons appliquer des modèles de résumés sur différents corpus afin de généré des pairs documents sources et résumés générés afin d'évaluer leur qualité. 
+
